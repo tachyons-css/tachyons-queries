@@ -8,6 +8,43 @@ npm install --save-dev tachyons-queries
 ```
 or download the css on github and include in your project.
 
+## The Code
+```
+
+/*
+
+   QUERIES
+
+*/
+
+/*
+ * Mixing for mobile first queries.
+ * Two breakpoints.
+ * Use like @include break(medium) {
+ *  ***Styles***
+ * }
+ *
+ */
+
+@mixin break($point) {
+  @if $point == not-small {
+    @media screen and (min-width: 48em) {
+      @content;
+    }
+  }
+  @else if $point == medium {
+    @media screen and (min-width: 48em) and (max-width: 64em) {
+      @content;
+    }
+  }
+  @else if $point == large {
+    @media screen and (min-width: 64em)  {
+      @content;
+    }
+  }
+}
+```
+
 ## Author
 
 [http://mrmrs.cc - Entire internet gateway to all things mrmrs](http://mrmrs.cc)
