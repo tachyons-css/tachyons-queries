@@ -25,5 +25,8 @@
     "email": "hi@mrmrs.cc",
     "url": "http://mrmrs.cc"
   },
+  "contributors": [
+    { "name": "mrmrs", "email": "hi@mrmrs.cc" }
+  ],
   "license": "MIT"
 }
