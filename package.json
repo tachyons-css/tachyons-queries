@@ -26,7 +26,13 @@
     "url": "http://mrmrs.cc"
   },
   "contributors": [
-    { "name": "mrmrs", "email": "hi@mrmrs.cc" }
+    {
+      "name": "mrmrs",
+      "email": "hi@mrmrs.cc"
+    }
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
 }
