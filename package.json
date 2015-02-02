@@ -1,11 +1,11 @@
 {
   "name": "tachyons-queries",
   "version": "0.2.2",
-  "homepage": "http://mrmrs.io/tachyons-queries",
-  "description": "Performance based sass module.",
+  "homepage": "http://github.com/mrmrs/tachyons-queries",
+  "description": "Performance based css module.",
   "keywords": [
     "oocss",
-    "sass",
+    "css",
     "css",
     "rwd",
     "design",
