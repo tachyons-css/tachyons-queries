@@ -1,15 +1,15 @@
 {
   "name": "tachyons-queries",
   "version": "0.3.0",
-  "homepage": "http://github.com/mrmrs/tachyons-queries",
+  "homepage": "http://github.com/tachyons-css/tachyons-queries",
   "description": "Performance based css module.",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mrmrs/tachyons-queries.git"
+    "url": "http://github.com/tachyons-css/tachyons-queries.git"
   },
   "bugs": {
-    "url": "https://github.com/mrmrs/tachyons-queries/issues",
+    "url": "https://github.com/tachyons-css/tachyons-queries/issues",
     "email": "hi@mrmrs.cc"
   },
   "author": {
